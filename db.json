@@ -5,5 +5,10 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "produtos": {
+    "id": 1,
+    "descricao": "Sapato marrom",
+    "preco": "199.99"
+  }
 }
